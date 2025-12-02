@@ -163,3 +163,4 @@ if (require.main === module) {
 
 module.exports = app;
 Update to WeWork webhook for 汇界财税AI助手
+Rename to .js for proper deployment
